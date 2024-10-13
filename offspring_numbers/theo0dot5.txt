@@ -1,0 +1,2000 @@
+Experiment ID: 0
+Number of offsprings: 29.0
+Experiment ID: 1
+Number of offsprings: 70.0
+Experiment ID: 2
+Number of offsprings: 44.0
+Experiment ID: 3
+Number of offsprings: 18.0
+Experiment ID: 4
+Number of offsprings: 33.0
+Experiment ID: 5
+Number of offsprings: 12.0
+Experiment ID: 6
+Number of offsprings: 9.0
+Experiment ID: 7
+Number of offsprings: 7.0
+Experiment ID: 8
+Number of offsprings: 8.0
+Experiment ID: 9
+Number of offsprings: 23.0
+Experiment ID: 10
+Number of offsprings: 6.0
+Experiment ID: 11
+Number of offsprings: 59.0
+Experiment ID: 12
+Number of offsprings: 16.0
+Experiment ID: 13
+Number of offsprings: 72.0
+Experiment ID: 14
+Number of offsprings: 159.0
+Experiment ID: 15
+Number of offsprings: 19.0
+Experiment ID: 16
+Number of offsprings: 10.0
+Experiment ID: 17
+Number of offsprings: 33.0
+Experiment ID: 18
+Number of offsprings: 32.0
+Experiment ID: 19
+Number of offsprings: 60.0
+Experiment ID: 20
+Number of offsprings: 14.0
+Experiment ID: 21
+Number of offsprings: 16.0
+Experiment ID: 22
+Number of offsprings: 10.0
+Experiment ID: 23
+Number of offsprings: 59.0
+Experiment ID: 24
+Number of offsprings: 18.0
+Experiment ID: 25
+Number of offsprings: 17.0
+Experiment ID: 26
+Number of offsprings: 9.0
+Experiment ID: 27
+Number of offsprings: 44.0
+Experiment ID: 28
+Number of offsprings: 59.0
+Experiment ID: 29
+Number of offsprings: 2.0
+Experiment ID: 30
+Number of offsprings: 25.0
+Experiment ID: 31
+Number of offsprings: 4.0
+Experiment ID: 32
+Number of offsprings: 194.0
+Experiment ID: 33
+Number of offsprings: 7.0
+Experiment ID: 34
+Number of offsprings: 19.0
+Experiment ID: 35
+Number of offsprings: 14.0
+Experiment ID: 36
+Number of offsprings: 15.0
+Experiment ID: 37
+Number of offsprings: 87.0
+Experiment ID: 38
+Number of offsprings: 65.0
+Experiment ID: 39
+Number of offsprings: 3.0
+Experiment ID: 40
+Number of offsprings: 18.0
+Experiment ID: 41
+Number of offsprings: 31.0
+Experiment ID: 42
+Number of offsprings: 14.0
+Experiment ID: 43
+Number of offsprings: 84.0
+Experiment ID: 44
+Number of offsprings: 21.0
+Experiment ID: 45
+Number of offsprings: 32.0
+Experiment ID: 46
+Number of offsprings: 20.0
+Experiment ID: 47
+Number of offsprings: 65.0
+Experiment ID: 48
+Number of offsprings: 2.0
+Experiment ID: 49
+Number of offsprings: 44.0
+Experiment ID: 50
+Number of offsprings: 46.0
+Experiment ID: 51
+Number of offsprings: 16.0
+Experiment ID: 52
+Number of offsprings: 130.0
+Experiment ID: 53
+Number of offsprings: 37.0
+Experiment ID: 54
+Number of offsprings: 50.0
+Experiment ID: 55
+Number of offsprings: 10.0
+Experiment ID: 56
+Number of offsprings: 91.0
+Experiment ID: 57
+Number of offsprings: 43.0
+Experiment ID: 58
+Number of offsprings: 71.0
+Experiment ID: 59
+Number of offsprings: 14.0
+Experiment ID: 60
+Number of offsprings: 21.0
+Experiment ID: 61
+Number of offsprings: 17.0
+Experiment ID: 62
+Number of offsprings: 63.0
+Experiment ID: 63
+Number of offsprings: 14.0
+Experiment ID: 64
+Number of offsprings: 8.0
+Experiment ID: 65
+Number of offsprings: 45.0
+Experiment ID: 66
+Number of offsprings: 104.0
+Experiment ID: 67
+Number of offsprings: 7.0
+Experiment ID: 68
+Number of offsprings: 38.0
+Experiment ID: 69
+Number of offsprings: 9.0
+Experiment ID: 70
+Number of offsprings: 119.0
+Experiment ID: 71
+Number of offsprings: 33.0
+Experiment ID: 72
+Number of offsprings: 10.0
+Experiment ID: 73
+Number of offsprings: 5.0
+Experiment ID: 74
+Number of offsprings: 147.0
+Experiment ID: 75
+Number of offsprings: 5.0
+Experiment ID: 76
+Number of offsprings: 42.0
+Experiment ID: 77
+Number of offsprings: 76.0
+Experiment ID: 78
+Number of offsprings: 27.0
+Experiment ID: 79
+Number of offsprings: 5.0
+Experiment ID: 80
+Number of offsprings: 95.0
+Experiment ID: 81
+Number of offsprings: 72.0
+Experiment ID: 82
+Number of offsprings: 49.0
+Experiment ID: 83
+Number of offsprings: 5.0
+Experiment ID: 84
+Number of offsprings: 47.0
+Experiment ID: 85
+Number of offsprings: 18.0
+Experiment ID: 86
+Number of offsprings: 24.0
+Experiment ID: 87
+Number of offsprings: 20.0
+Experiment ID: 88
+Number of offsprings: 48.0
+Experiment ID: 89
+Number of offsprings: 31.0
+Experiment ID: 90
+Number of offsprings: 30.0
+Experiment ID: 91
+Number of offsprings: 68.0
+Experiment ID: 92
+Number of offsprings: 18.0
+Experiment ID: 93
+Number of offsprings: 8.0
+Experiment ID: 94
+Number of offsprings: 12.0
+Experiment ID: 95
+Number of offsprings: 23.0
+Experiment ID: 96
+Number of offsprings: 10.0
+Experiment ID: 97
+Number of offsprings: 163.0
+Experiment ID: 98
+Number of offsprings: 24.0
+Experiment ID: 99
+Number of offsprings: 19.0
+Experiment ID: 100
+Number of offsprings: 13.0
+Experiment ID: 101
+Number of offsprings: 48.0
+Experiment ID: 102
+Number of offsprings: 27.0
+Experiment ID: 103
+Number of offsprings: 96.0
+Experiment ID: 104
+Number of offsprings: 43.0
+Experiment ID: 105
+Number of offsprings: 42.0
+Experiment ID: 106
+Number of offsprings: 23.0
+Experiment ID: 107
+Number of offsprings: 31.0
+Experiment ID: 108
+Number of offsprings: 41.0
+Experiment ID: 109
+Number of offsprings: 27.0
+Experiment ID: 110
+Number of offsprings: 68.0
+Experiment ID: 111
+Number of offsprings: 1.0
+Experiment ID: 112
+Number of offsprings: 3.0
+Experiment ID: 113
+Number of offsprings: 4.0
+Experiment ID: 114
+Number of offsprings: 53.0
+Experiment ID: 115
+Number of offsprings: 29.0
+Experiment ID: 116
+Number of offsprings: 59.0
+Experiment ID: 117
+Number of offsprings: 25.0
+Experiment ID: 118
+Number of offsprings: 221.0
+Experiment ID: 119
+Number of offsprings: 18.0
+Experiment ID: 120
+Number of offsprings: 20.0
+Experiment ID: 121
+Number of offsprings: 78.0
+Experiment ID: 122
+Number of offsprings: 20.0
+Experiment ID: 123
+Number of offsprings: 59.0
+Experiment ID: 124
+Number of offsprings: 11.0
+Experiment ID: 125
+Number of offsprings: 25.0
+Experiment ID: 126
+Number of offsprings: 10.0
+Experiment ID: 127
+Number of offsprings: 21.0
+Experiment ID: 128
+Number of offsprings: 17.0
+Experiment ID: 129
+Number of offsprings: 3.0
+Experiment ID: 130
+Number of offsprings: 7.0
+Experiment ID: 131
+Number of offsprings: 6.0
+Experiment ID: 132
+Number of offsprings: 10.0
+Experiment ID: 133
+Number of offsprings: 62.0
+Experiment ID: 134
+Number of offsprings: 18.0
+Experiment ID: 135
+Number of offsprings: 0.0
+Experiment ID: 136
+Number of offsprings: 16.0
+Experiment ID: 137
+Number of offsprings: 9.0
+Experiment ID: 138
+Number of offsprings: 13.0
+Experiment ID: 139
+Number of offsprings: 7.0
+Experiment ID: 140
+Number of offsprings: 1.0
+Experiment ID: 141
+Number of offsprings: 109.0
+Experiment ID: 142
+Number of offsprings: 113.0
+Experiment ID: 143
+Number of offsprings: 37.0
+Experiment ID: 144
+Number of offsprings: 11.0
+Experiment ID: 145
+Number of offsprings: 96.0
+Experiment ID: 146
+Number of offsprings: 3.0
+Experiment ID: 147
+Number of offsprings: 116.0
+Experiment ID: 148
+Number of offsprings: 3.0
+Experiment ID: 149
+Number of offsprings: 15.0
+Experiment ID: 150
+Number of offsprings: 31.0
+Experiment ID: 151
+Number of offsprings: 0.0
+Experiment ID: 152
+Number of offsprings: 39.0
+Experiment ID: 153
+Number of offsprings: 7.0
+Experiment ID: 154
+Number of offsprings: 129.0
+Experiment ID: 155
+Number of offsprings: 50.0
+Experiment ID: 156
+Number of offsprings: 36.0
+Experiment ID: 157
+Number of offsprings: 35.0
+Experiment ID: 158
+Number of offsprings: 35.0
+Experiment ID: 159
+Number of offsprings: 153.0
+Experiment ID: 160
+Number of offsprings: 29.0
+Experiment ID: 161
+Number of offsprings: 7.0
+Experiment ID: 162
+Number of offsprings: 10.0
+Experiment ID: 163
+Number of offsprings: 58.0
+Experiment ID: 164
+Number of offsprings: 1.0
+Experiment ID: 165
+Number of offsprings: 5.0
+Experiment ID: 166
+Number of offsprings: 150.0
+Experiment ID: 167
+Number of offsprings: 28.0
+Experiment ID: 168
+Number of offsprings: 41.0
+Experiment ID: 169
+Number of offsprings: 71.0
+Experiment ID: 170
+Number of offsprings: 42.0
+Experiment ID: 171
+Number of offsprings: 57.0
+Experiment ID: 172
+Number of offsprings: 17.0
+Experiment ID: 173
+Number of offsprings: 45.0
+Experiment ID: 174
+Number of offsprings: 0.0
+Experiment ID: 175
+Number of offsprings: 85.0
+Experiment ID: 176
+Number of offsprings: 13.0
+Experiment ID: 177
+Number of offsprings: 32.0
+Experiment ID: 178
+Number of offsprings: 23.0
+Experiment ID: 179
+Number of offsprings: 30.0
+Experiment ID: 180
+Number of offsprings: 20.0
+Experiment ID: 181
+Number of offsprings: 4.0
+Experiment ID: 182
+Number of offsprings: 20.0
+Experiment ID: 183
+Number of offsprings: 2.0
+Experiment ID: 184
+Number of offsprings: 18.0
+Experiment ID: 185
+Number of offsprings: 7.0
+Experiment ID: 186
+Number of offsprings: 7.0
+Experiment ID: 187
+Number of offsprings: 1.0
+Experiment ID: 188
+Number of offsprings: 115.0
+Experiment ID: 189
+Number of offsprings: 87.0
+Experiment ID: 190
+Number of offsprings: 6.0
+Experiment ID: 191
+Number of offsprings: 65.0
+Experiment ID: 192
+Number of offsprings: 96.0
+Experiment ID: 193
+Number of offsprings: 5.0
+Experiment ID: 194
+Number of offsprings: 43.0
+Experiment ID: 195
+Number of offsprings: 6.0
+Experiment ID: 196
+Number of offsprings: 20.0
+Experiment ID: 197
+Number of offsprings: 7.0
+Experiment ID: 198
+Number of offsprings: 22.0
+Experiment ID: 199
+Number of offsprings: 17.0
+Experiment ID: 200
+Number of offsprings: 15.0
+Experiment ID: 201
+Number of offsprings: 8.0
+Experiment ID: 202
+Number of offsprings: 36.0
+Experiment ID: 203
+Number of offsprings: 8.0
+Experiment ID: 204
+Number of offsprings: 25.0
+Experiment ID: 205
+Number of offsprings: 6.0
+Experiment ID: 206
+Number of offsprings: 1.0
+Experiment ID: 207
+Number of offsprings: 97.0
+Experiment ID: 208
+Number of offsprings: 55.0
+Experiment ID: 209
+Number of offsprings: 3.0
+Experiment ID: 210
+Number of offsprings: 23.0
+Experiment ID: 211
+Number of offsprings: 35.0
+Experiment ID: 212
+Number of offsprings: 30.0
+Experiment ID: 213
+Number of offsprings: 34.0
+Experiment ID: 214
+Number of offsprings: 102.0
+Experiment ID: 215
+Number of offsprings: 28.0
+Experiment ID: 216
+Number of offsprings: 73.0
+Experiment ID: 217
+Number of offsprings: 40.0
+Experiment ID: 218
+Number of offsprings: 14.0
+Experiment ID: 219
+Number of offsprings: 47.0
+Experiment ID: 220
+Number of offsprings: 0.0
+Experiment ID: 221
+Number of offsprings: 29.0
+Experiment ID: 222
+Number of offsprings: 104.0
+Experiment ID: 223
+Number of offsprings: 30.0
+Experiment ID: 224
+Number of offsprings: 50.0
+Experiment ID: 225
+Number of offsprings: 25.0
+Experiment ID: 226
+Number of offsprings: 7.0
+Experiment ID: 227
+Number of offsprings: 57.0
+Experiment ID: 228
+Number of offsprings: 17.0
+Experiment ID: 229
+Number of offsprings: 25.0
+Experiment ID: 230
+Number of offsprings: 46.0
+Experiment ID: 231
+Number of offsprings: 50.0
+Experiment ID: 232
+Number of offsprings: 12.0
+Experiment ID: 233
+Number of offsprings: 29.0
+Experiment ID: 234
+Number of offsprings: 2.0
+Experiment ID: 235
+Number of offsprings: 6.0
+Experiment ID: 236
+Number of offsprings: 8.0
+Experiment ID: 237
+Number of offsprings: 25.0
+Experiment ID: 238
+Number of offsprings: 4.0
+Experiment ID: 239
+Number of offsprings: 42.0
+Experiment ID: 240
+Number of offsprings: 55.0
+Experiment ID: 241
+Number of offsprings: 45.0
+Experiment ID: 242
+Number of offsprings: 79.0
+Experiment ID: 243
+Number of offsprings: 173.0
+Experiment ID: 244
+Number of offsprings: 19.0
+Experiment ID: 245
+Number of offsprings: 4.0
+Experiment ID: 246
+Number of offsprings: 2.0
+Experiment ID: 247
+Number of offsprings: 42.0
+Experiment ID: 248
+Number of offsprings: 60.0
+Experiment ID: 249
+Number of offsprings: 13.0
+Experiment ID: 250
+Number of offsprings: 30.0
+Experiment ID: 251
+Number of offsprings: 2.0
+Experiment ID: 252
+Number of offsprings: 89.0
+Experiment ID: 253
+Number of offsprings: 3.0
+Experiment ID: 254
+Number of offsprings: 8.0
+Experiment ID: 255
+Number of offsprings: 5.0
+Experiment ID: 256
+Number of offsprings: 2.0
+Experiment ID: 257
+Number of offsprings: 9.0
+Experiment ID: 258
+Number of offsprings: 46.0
+Experiment ID: 259
+Number of offsprings: 10.0
+Experiment ID: 260
+Number of offsprings: 32.0
+Experiment ID: 261
+Number of offsprings: 21.0
+Experiment ID: 262
+Number of offsprings: 197.0
+Experiment ID: 263
+Number of offsprings: 111.0
+Experiment ID: 264
+Number of offsprings: 12.0
+Experiment ID: 265
+Number of offsprings: 10.0
+Experiment ID: 266
+Number of offsprings: 0.0
+Experiment ID: 267
+Number of offsprings: 6.0
+Experiment ID: 268
+Number of offsprings: 115.0
+Experiment ID: 269
+Number of offsprings: 39.0
+Experiment ID: 270
+Number of offsprings: 0.0
+Experiment ID: 271
+Number of offsprings: 53.0
+Experiment ID: 272
+Number of offsprings: 19.0
+Experiment ID: 273
+Number of offsprings: 59.0
+Experiment ID: 274
+Number of offsprings: 116.0
+Experiment ID: 275
+Number of offsprings: 15.0
+Experiment ID: 276
+Number of offsprings: 55.0
+Experiment ID: 277
+Number of offsprings: 54.0
+Experiment ID: 278
+Number of offsprings: 18.0
+Experiment ID: 279
+Number of offsprings: 23.0
+Experiment ID: 280
+Number of offsprings: 23.0
+Experiment ID: 281
+Number of offsprings: 36.0
+Experiment ID: 282
+Number of offsprings: 8.0
+Experiment ID: 283
+Number of offsprings: 46.0
+Experiment ID: 284
+Number of offsprings: 26.0
+Experiment ID: 285
+Number of offsprings: 14.0
+Experiment ID: 286
+Number of offsprings: 88.0
+Experiment ID: 287
+Number of offsprings: 53.0
+Experiment ID: 288
+Number of offsprings: 23.0
+Experiment ID: 289
+Number of offsprings: 32.0
+Experiment ID: 290
+Number of offsprings: 11.0
+Experiment ID: 291
+Number of offsprings: 20.0
+Experiment ID: 292
+Number of offsprings: 5.0
+Experiment ID: 293
+Number of offsprings: 22.0
+Experiment ID: 294
+Number of offsprings: 3.0
+Experiment ID: 295
+Number of offsprings: 30.0
+Experiment ID: 296
+Number of offsprings: 6.0
+Experiment ID: 297
+Number of offsprings: 36.0
+Experiment ID: 298
+Number of offsprings: 37.0
+Experiment ID: 299
+Number of offsprings: 4.0
+Experiment ID: 300
+Number of offsprings: 70.0
+Experiment ID: 301
+Number of offsprings: 1.0
+Experiment ID: 302
+Number of offsprings: 13.0
+Experiment ID: 303
+Number of offsprings: 1.0
+Experiment ID: 304
+Number of offsprings: 79.0
+Experiment ID: 305
+Number of offsprings: 18.0
+Experiment ID: 306
+Number of offsprings: 2.0
+Experiment ID: 307
+Number of offsprings: 5.0
+Experiment ID: 308
+Number of offsprings: 84.0
+Experiment ID: 309
+Number of offsprings: 136.0
+Experiment ID: 310
+Number of offsprings: 0.0
+Experiment ID: 311
+Number of offsprings: 15.0
+Experiment ID: 312
+Number of offsprings: 72.0
+Experiment ID: 313
+Number of offsprings: 15.0
+Experiment ID: 314
+Number of offsprings: 46.0
+Experiment ID: 315
+Number of offsprings: 67.0
+Experiment ID: 316
+Number of offsprings: 62.0
+Experiment ID: 317
+Number of offsprings: 47.0
+Experiment ID: 318
+Number of offsprings: 29.0
+Experiment ID: 319
+Number of offsprings: 20.0
+Experiment ID: 320
+Number of offsprings: 22.0
+Experiment ID: 321
+Number of offsprings: 4.0
+Experiment ID: 322
+Number of offsprings: 202.0
+Experiment ID: 323
+Number of offsprings: 0.0
+Experiment ID: 324
+Number of offsprings: 47.0
+Experiment ID: 325
+Number of offsprings: 37.0
+Experiment ID: 326
+Number of offsprings: 109.0
+Experiment ID: 327
+Number of offsprings: 30.0
+Experiment ID: 328
+Number of offsprings: 6.0
+Experiment ID: 329
+Number of offsprings: 1.0
+Experiment ID: 330
+Number of offsprings: 63.0
+Experiment ID: 331
+Number of offsprings: 33.0
+Experiment ID: 332
+Number of offsprings: 22.0
+Experiment ID: 333
+Number of offsprings: 49.0
+Experiment ID: 334
+Number of offsprings: 0.0
+Experiment ID: 335
+Number of offsprings: 119.0
+Experiment ID: 336
+Number of offsprings: 25.0
+Experiment ID: 337
+Number of offsprings: 103.0
+Experiment ID: 338
+Number of offsprings: 67.0
+Experiment ID: 339
+Number of offsprings: 46.0
+Experiment ID: 340
+Number of offsprings: 52.0
+Experiment ID: 341
+Number of offsprings: 137.0
+Experiment ID: 342
+Number of offsprings: 0.0
+Experiment ID: 343
+Number of offsprings: 60.0
+Experiment ID: 344
+Number of offsprings: 2.0
+Experiment ID: 345
+Number of offsprings: 19.0
+Experiment ID: 346
+Number of offsprings: 71.0
+Experiment ID: 347
+Number of offsprings: 80.0
+Experiment ID: 348
+Number of offsprings: 19.0
+Experiment ID: 349
+Number of offsprings: 42.0
+Experiment ID: 350
+Number of offsprings: 31.0
+Experiment ID: 351
+Number of offsprings: 109.0
+Experiment ID: 352
+Number of offsprings: 30.0
+Experiment ID: 353
+Number of offsprings: 29.0
+Experiment ID: 354
+Number of offsprings: 19.0
+Experiment ID: 355
+Number of offsprings: 5.0
+Experiment ID: 356
+Number of offsprings: 11.0
+Experiment ID: 357
+Number of offsprings: 107.0
+Experiment ID: 358
+Number of offsprings: 21.0
+Experiment ID: 359
+Number of offsprings: 17.0
+Experiment ID: 360
+Number of offsprings: 6.0
+Experiment ID: 361
+Number of offsprings: 14.0
+Experiment ID: 362
+Number of offsprings: 10.0
+Experiment ID: 363
+Number of offsprings: 52.0
+Experiment ID: 364
+Number of offsprings: 6.0
+Experiment ID: 365
+Number of offsprings: 55.0
+Experiment ID: 366
+Number of offsprings: 76.0
+Experiment ID: 367
+Number of offsprings: 67.0
+Experiment ID: 368
+Number of offsprings: 16.0
+Experiment ID: 369
+Number of offsprings: 12.0
+Experiment ID: 370
+Number of offsprings: 121.0
+Experiment ID: 371
+Number of offsprings: 28.0
+Experiment ID: 372
+Number of offsprings: 1.0
+Experiment ID: 373
+Number of offsprings: 82.0
+Experiment ID: 374
+Number of offsprings: 36.0
+Experiment ID: 375
+Number of offsprings: 6.0
+Experiment ID: 376
+Number of offsprings: 49.0
+Experiment ID: 377
+Number of offsprings: 11.0
+Experiment ID: 378
+Number of offsprings: 55.0
+Experiment ID: 379
+Number of offsprings: 50.0
+Experiment ID: 380
+Number of offsprings: 18.0
+Experiment ID: 381
+Number of offsprings: 50.0
+Experiment ID: 382
+Number of offsprings: 31.0
+Experiment ID: 383
+Number of offsprings: 14.0
+Experiment ID: 384
+Number of offsprings: 17.0
+Experiment ID: 385
+Number of offsprings: 91.0
+Experiment ID: 386
+Number of offsprings: 13.0
+Experiment ID: 387
+Number of offsprings: 16.0
+Experiment ID: 388
+Number of offsprings: 61.0
+Experiment ID: 389
+Number of offsprings: 33.0
+Experiment ID: 390
+Number of offsprings: 2.0
+Experiment ID: 391
+Number of offsprings: 9.0
+Experiment ID: 392
+Number of offsprings: 62.0
+Experiment ID: 393
+Number of offsprings: 1.0
+Experiment ID: 394
+Number of offsprings: 1.0
+Experiment ID: 395
+Number of offsprings: 108.0
+Experiment ID: 396
+Number of offsprings: 24.0
+Experiment ID: 397
+Number of offsprings: 140.0
+Experiment ID: 398
+Number of offsprings: 15.0
+Experiment ID: 399
+Number of offsprings: 9.0
+Experiment ID: 400
+Number of offsprings: 14.0
+Experiment ID: 401
+Number of offsprings: 24.0
+Experiment ID: 402
+Number of offsprings: 16.0
+Experiment ID: 403
+Number of offsprings: 44.0
+Experiment ID: 404
+Number of offsprings: 16.0
+Experiment ID: 405
+Number of offsprings: 61.0
+Experiment ID: 406
+Number of offsprings: 27.0
+Experiment ID: 407
+Number of offsprings: 58.0
+Experiment ID: 408
+Number of offsprings: 58.0
+Experiment ID: 409
+Number of offsprings: 70.0
+Experiment ID: 410
+Number of offsprings: 132.0
+Experiment ID: 411
+Number of offsprings: 2.0
+Experiment ID: 412
+Number of offsprings: 3.0
+Experiment ID: 413
+Number of offsprings: 24.0
+Experiment ID: 414
+Number of offsprings: 29.0
+Experiment ID: 415
+Number of offsprings: 32.0
+Experiment ID: 416
+Number of offsprings: 8.0
+Experiment ID: 417
+Number of offsprings: 5.0
+Experiment ID: 418
+Number of offsprings: 33.0
+Experiment ID: 419
+Number of offsprings: 21.0
+Experiment ID: 420
+Number of offsprings: 82.0
+Experiment ID: 421
+Number of offsprings: 9.0
+Experiment ID: 422
+Number of offsprings: 19.0
+Experiment ID: 423
+Number of offsprings: 66.0
+Experiment ID: 424
+Number of offsprings: 6.0
+Experiment ID: 425
+Number of offsprings: 73.0
+Experiment ID: 426
+Number of offsprings: 46.0
+Experiment ID: 427
+Number of offsprings: 48.0
+Experiment ID: 428
+Number of offsprings: 37.0
+Experiment ID: 429
+Number of offsprings: 57.0
+Experiment ID: 430
+Number of offsprings: 41.0
+Experiment ID: 431
+Number of offsprings: 9.0
+Experiment ID: 432
+Number of offsprings: 22.0
+Experiment ID: 433
+Number of offsprings: 4.0
+Experiment ID: 434
+Number of offsprings: 76.0
+Experiment ID: 435
+Number of offsprings: 55.0
+Experiment ID: 436
+Number of offsprings: 28.0
+Experiment ID: 437
+Number of offsprings: 38.0
+Experiment ID: 438
+Number of offsprings: 38.0
+Experiment ID: 439
+Number of offsprings: 28.0
+Experiment ID: 440
+Number of offsprings: 10.0
+Experiment ID: 441
+Number of offsprings: 58.0
+Experiment ID: 442
+Number of offsprings: 44.0
+Experiment ID: 443
+Number of offsprings: 20.0
+Experiment ID: 444
+Number of offsprings: 16.0
+Experiment ID: 445
+Number of offsprings: 33.0
+Experiment ID: 446
+Number of offsprings: 18.0
+Experiment ID: 447
+Number of offsprings: 70.0
+Experiment ID: 448
+Number of offsprings: 26.0
+Experiment ID: 449
+Number of offsprings: 17.0
+Experiment ID: 450
+Number of offsprings: 98.0
+Experiment ID: 451
+Number of offsprings: 109.0
+Experiment ID: 452
+Number of offsprings: 35.0
+Experiment ID: 453
+Number of offsprings: 95.0
+Experiment ID: 454
+Number of offsprings: 51.0
+Experiment ID: 455
+Number of offsprings: 31.0
+Experiment ID: 456
+Number of offsprings: 9.0
+Experiment ID: 457
+Number of offsprings: 7.0
+Experiment ID: 458
+Number of offsprings: 59.0
+Experiment ID: 459
+Number of offsprings: 30.0
+Experiment ID: 460
+Number of offsprings: 5.0
+Experiment ID: 461
+Number of offsprings: 1.0
+Experiment ID: 462
+Number of offsprings: 9.0
+Experiment ID: 463
+Number of offsprings: 37.0
+Experiment ID: 464
+Number of offsprings: 22.0
+Experiment ID: 465
+Number of offsprings: 120.0
+Experiment ID: 466
+Number of offsprings: 48.0
+Experiment ID: 467
+Number of offsprings: 44.0
+Experiment ID: 468
+Number of offsprings: 207.0
+Experiment ID: 469
+Number of offsprings: 44.0
+Experiment ID: 470
+Number of offsprings: 140.0
+Experiment ID: 471
+Number of offsprings: 15.0
+Experiment ID: 472
+Number of offsprings: 50.0
+Experiment ID: 473
+Number of offsprings: 80.0
+Experiment ID: 474
+Number of offsprings: 2.0
+Experiment ID: 475
+Number of offsprings: 9.0
+Experiment ID: 476
+Number of offsprings: 61.0
+Experiment ID: 477
+Number of offsprings: 22.0
+Experiment ID: 478
+Number of offsprings: 20.0
+Experiment ID: 479
+Number of offsprings: 30.0
+Experiment ID: 480
+Number of offsprings: 12.0
+Experiment ID: 481
+Number of offsprings: 26.0
+Experiment ID: 482
+Number of offsprings: 35.0
+Experiment ID: 483
+Number of offsprings: 32.0
+Experiment ID: 484
+Number of offsprings: 24.0
+Experiment ID: 485
+Number of offsprings: 77.0
+Experiment ID: 486
+Number of offsprings: 1.0
+Experiment ID: 487
+Number of offsprings: 32.0
+Experiment ID: 488
+Number of offsprings: 48.0
+Experiment ID: 489
+Number of offsprings: 2.0
+Experiment ID: 490
+Number of offsprings: 58.0
+Experiment ID: 491
+Number of offsprings: 21.0
+Experiment ID: 492
+Number of offsprings: 8.0
+Experiment ID: 493
+Number of offsprings: 86.0
+Experiment ID: 494
+Number of offsprings: 59.0
+Experiment ID: 495
+Number of offsprings: 109.0
+Experiment ID: 496
+Number of offsprings: 8.0
+Experiment ID: 497
+Number of offsprings: 110.0
+Experiment ID: 498
+Number of offsprings: 24.0
+Experiment ID: 499
+Number of offsprings: 34.0
+Experiment ID: 500
+Number of offsprings: 83.0
+Experiment ID: 501
+Number of offsprings: 55.0
+Experiment ID: 502
+Number of offsprings: 47.0
+Experiment ID: 503
+Number of offsprings: 2.0
+Experiment ID: 504
+Number of offsprings: 86.0
+Experiment ID: 505
+Number of offsprings: 37.0
+Experiment ID: 506
+Number of offsprings: 19.0
+Experiment ID: 507
+Number of offsprings: 16.0
+Experiment ID: 508
+Number of offsprings: 39.0
+Experiment ID: 509
+Number of offsprings: 20.0
+Experiment ID: 510
+Number of offsprings: 20.0
+Experiment ID: 511
+Number of offsprings: 37.0
+Experiment ID: 512
+Number of offsprings: 111.0
+Experiment ID: 513
+Number of offsprings: 2.0
+Experiment ID: 514
+Number of offsprings: 19.0
+Experiment ID: 515
+Number of offsprings: 49.0
+Experiment ID: 516
+Number of offsprings: 54.0
+Experiment ID: 517
+Number of offsprings: 9.0
+Experiment ID: 518
+Number of offsprings: 50.0
+Experiment ID: 519
+Number of offsprings: 184.0
+Experiment ID: 520
+Number of offsprings: 96.0
+Experiment ID: 521
+Number of offsprings: 65.0
+Experiment ID: 522
+Number of offsprings: 0.0
+Experiment ID: 523
+Number of offsprings: 75.0
+Experiment ID: 524
+Number of offsprings: 10.0
+Experiment ID: 525
+Number of offsprings: 6.0
+Experiment ID: 526
+Number of offsprings: 51.0
+Experiment ID: 527
+Number of offsprings: 8.0
+Experiment ID: 528
+Number of offsprings: 42.0
+Experiment ID: 529
+Number of offsprings: 165.0
+Experiment ID: 530
+Number of offsprings: 171.0
+Experiment ID: 531
+Number of offsprings: 13.0
+Experiment ID: 532
+Number of offsprings: 20.0
+Experiment ID: 533
+Number of offsprings: 122.0
+Experiment ID: 534
+Number of offsprings: 49.0
+Experiment ID: 535
+Number of offsprings: 118.0
+Experiment ID: 536
+Number of offsprings: 50.0
+Experiment ID: 537
+Number of offsprings: 18.0
+Experiment ID: 538
+Number of offsprings: 7.0
+Experiment ID: 539
+Number of offsprings: 78.0
+Experiment ID: 540
+Number of offsprings: 4.0
+Experiment ID: 541
+Number of offsprings: 317.0
+Experiment ID: 542
+Number of offsprings: 70.0
+Experiment ID: 543
+Number of offsprings: 2.0
+Experiment ID: 544
+Number of offsprings: 5.0
+Experiment ID: 545
+Number of offsprings: 23.0
+Experiment ID: 546
+Number of offsprings: 27.0
+Experiment ID: 547
+Number of offsprings: 13.0
+Experiment ID: 548
+Number of offsprings: 69.0
+Experiment ID: 549
+Number of offsprings: 40.0
+Experiment ID: 550
+Number of offsprings: 3.0
+Experiment ID: 551
+Number of offsprings: 1.0
+Experiment ID: 552
+Number of offsprings: 17.0
+Experiment ID: 553
+Number of offsprings: 39.0
+Experiment ID: 554
+Number of offsprings: 59.0
+Experiment ID: 555
+Number of offsprings: 90.0
+Experiment ID: 556
+Number of offsprings: 59.0
+Experiment ID: 557
+Number of offsprings: 2.0
+Experiment ID: 558
+Number of offsprings: 69.0
+Experiment ID: 559
+Number of offsprings: 34.0
+Experiment ID: 560
+Number of offsprings: 4.0
+Experiment ID: 561
+Number of offsprings: 50.0
+Experiment ID: 562
+Number of offsprings: 40.0
+Experiment ID: 563
+Number of offsprings: 0.0
+Experiment ID: 564
+Number of offsprings: 21.0
+Experiment ID: 565
+Number of offsprings: 31.0
+Experiment ID: 566
+Number of offsprings: 72.0
+Experiment ID: 567
+Number of offsprings: 98.0
+Experiment ID: 568
+Number of offsprings: 144.0
+Experiment ID: 569
+Number of offsprings: 209.0
+Experiment ID: 570
+Number of offsprings: 32.0
+Experiment ID: 571
+Number of offsprings: 78.0
+Experiment ID: 572
+Number of offsprings: 112.0
+Experiment ID: 573
+Number of offsprings: 73.0
+Experiment ID: 574
+Number of offsprings: 104.0
+Experiment ID: 575
+Number of offsprings: 13.0
+Experiment ID: 576
+Number of offsprings: 9.0
+Experiment ID: 577
+Number of offsprings: 135.0
+Experiment ID: 578
+Number of offsprings: 53.0
+Experiment ID: 579
+Number of offsprings: 10.0
+Experiment ID: 580
+Number of offsprings: 16.0
+Experiment ID: 581
+Number of offsprings: 16.0
+Experiment ID: 582
+Number of offsprings: 21.0
+Experiment ID: 583
+Number of offsprings: 39.0
+Experiment ID: 584
+Number of offsprings: 92.0
+Experiment ID: 585
+Number of offsprings: 101.0
+Experiment ID: 586
+Number of offsprings: 79.0
+Experiment ID: 587
+Number of offsprings: 9.0
+Experiment ID: 588
+Number of offsprings: 11.0
+Experiment ID: 589
+Number of offsprings: 3.0
+Experiment ID: 590
+Number of offsprings: 54.0
+Experiment ID: 591
+Number of offsprings: 9.0
+Experiment ID: 592
+Number of offsprings: 55.0
+Experiment ID: 593
+Number of offsprings: 60.0
+Experiment ID: 594
+Number of offsprings: 122.0
+Experiment ID: 595
+Number of offsprings: 3.0
+Experiment ID: 596
+Number of offsprings: 18.0
+Experiment ID: 597
+Number of offsprings: 29.0
+Experiment ID: 598
+Number of offsprings: 8.0
+Experiment ID: 599
+Number of offsprings: 96.0
+Experiment ID: 600
+Number of offsprings: 71.0
+Experiment ID: 601
+Number of offsprings: 136.0
+Experiment ID: 602
+Number of offsprings: 157.0
+Experiment ID: 603
+Number of offsprings: 2.0
+Experiment ID: 604
+Number of offsprings: 7.0
+Experiment ID: 605
+Number of offsprings: 18.0
+Experiment ID: 606
+Number of offsprings: 17.0
+Experiment ID: 607
+Number of offsprings: 2.0
+Experiment ID: 608
+Number of offsprings: 102.0
+Experiment ID: 609
+Number of offsprings: 27.0
+Experiment ID: 610
+Number of offsprings: 37.0
+Experiment ID: 611
+Number of offsprings: 33.0
+Experiment ID: 612
+Number of offsprings: 38.0
+Experiment ID: 613
+Number of offsprings: 32.0
+Experiment ID: 614
+Number of offsprings: 82.0
+Experiment ID: 615
+Number of offsprings: 24.0
+Experiment ID: 616
+Number of offsprings: 14.0
+Experiment ID: 617
+Number of offsprings: 6.0
+Experiment ID: 618
+Number of offsprings: 53.0
+Experiment ID: 619
+Number of offsprings: 4.0
+Experiment ID: 620
+Number of offsprings: 49.0
+Experiment ID: 621
+Number of offsprings: 270.0
+Experiment ID: 622
+Number of offsprings: 114.0
+Experiment ID: 623
+Number of offsprings: 5.0
+Experiment ID: 624
+Number of offsprings: 51.0
+Experiment ID: 625
+Number of offsprings: 18.0
+Experiment ID: 626
+Number of offsprings: 73.0
+Experiment ID: 627
+Number of offsprings: 27.0
+Experiment ID: 628
+Number of offsprings: 12.0
+Experiment ID: 629
+Number of offsprings: 25.0
+Experiment ID: 630
+Number of offsprings: 22.0
+Experiment ID: 631
+Number of offsprings: 38.0
+Experiment ID: 632
+Number of offsprings: 44.0
+Experiment ID: 633
+Number of offsprings: 81.0
+Experiment ID: 634
+Number of offsprings: 94.0
+Experiment ID: 635
+Number of offsprings: 12.0
+Experiment ID: 636
+Number of offsprings: 2.0
+Experiment ID: 637
+Number of offsprings: 13.0
+Experiment ID: 638
+Number of offsprings: 141.0
+Experiment ID: 639
+Number of offsprings: 41.0
+Experiment ID: 640
+Number of offsprings: 16.0
+Experiment ID: 641
+Number of offsprings: 45.0
+Experiment ID: 642
+Number of offsprings: 55.0
+Experiment ID: 643
+Number of offsprings: 19.0
+Experiment ID: 644
+Number of offsprings: 2.0
+Experiment ID: 645
+Number of offsprings: 47.0
+Experiment ID: 646
+Number of offsprings: 22.0
+Experiment ID: 647
+Number of offsprings: 36.0
+Experiment ID: 648
+Number of offsprings: 45.0
+Experiment ID: 649
+Number of offsprings: 9.0
+Experiment ID: 650
+Number of offsprings: 32.0
+Experiment ID: 651
+Number of offsprings: 34.0
+Experiment ID: 652
+Number of offsprings: 173.0
+Experiment ID: 653
+Number of offsprings: 74.0
+Experiment ID: 654
+Number of offsprings: 4.0
+Experiment ID: 655
+Number of offsprings: 42.0
+Experiment ID: 656
+Number of offsprings: 4.0
+Experiment ID: 657
+Number of offsprings: 96.0
+Experiment ID: 658
+Number of offsprings: 96.0
+Experiment ID: 659
+Number of offsprings: 1.0
+Experiment ID: 660
+Number of offsprings: 38.0
+Experiment ID: 661
+Number of offsprings: 28.0
+Experiment ID: 662
+Number of offsprings: 0.0
+Experiment ID: 663
+Number of offsprings: 41.0
+Experiment ID: 664
+Number of offsprings: 4.0
+Experiment ID: 665
+Number of offsprings: 2.0
+Experiment ID: 666
+Number of offsprings: 65.0
+Experiment ID: 667
+Number of offsprings: 43.0
+Experiment ID: 668
+Number of offsprings: 35.0
+Experiment ID: 669
+Number of offsprings: 18.0
+Experiment ID: 670
+Number of offsprings: 25.0
+Experiment ID: 671
+Number of offsprings: 94.0
+Experiment ID: 672
+Number of offsprings: 1.0
+Experiment ID: 673
+Number of offsprings: 76.0
+Experiment ID: 674
+Number of offsprings: 9.0
+Experiment ID: 675
+Number of offsprings: 1.0
+Experiment ID: 676
+Number of offsprings: 46.0
+Experiment ID: 677
+Number of offsprings: 20.0
+Experiment ID: 678
+Number of offsprings: 54.0
+Experiment ID: 679
+Number of offsprings: 20.0
+Experiment ID: 680
+Number of offsprings: 39.0
+Experiment ID: 681
+Number of offsprings: 5.0
+Experiment ID: 682
+Number of offsprings: 80.0
+Experiment ID: 683
+Number of offsprings: 18.0
+Experiment ID: 684
+Number of offsprings: 48.0
+Experiment ID: 685
+Number of offsprings: 3.0
+Experiment ID: 686
+Number of offsprings: 14.0
+Experiment ID: 687
+Number of offsprings: 112.0
+Experiment ID: 688
+Number of offsprings: 57.0
+Experiment ID: 689
+Number of offsprings: 10.0
+Experiment ID: 690
+Number of offsprings: 68.0
+Experiment ID: 691
+Number of offsprings: 57.0
+Experiment ID: 692
+Number of offsprings: 41.0
+Experiment ID: 693
+Number of offsprings: 41.0
+Experiment ID: 694
+Number of offsprings: 24.0
+Experiment ID: 695
+Number of offsprings: 134.0
+Experiment ID: 696
+Number of offsprings: 56.0
+Experiment ID: 697
+Number of offsprings: 1.0
+Experiment ID: 698
+Number of offsprings: 35.0
+Experiment ID: 699
+Number of offsprings: 94.0
+Experiment ID: 700
+Number of offsprings: 51.0
+Experiment ID: 701
+Number of offsprings: 2.0
+Experiment ID: 702
+Number of offsprings: 2.0
+Experiment ID: 703
+Number of offsprings: 3.0
+Experiment ID: 704
+Number of offsprings: 16.0
+Experiment ID: 705
+Number of offsprings: 50.0
+Experiment ID: 706
+Number of offsprings: 48.0
+Experiment ID: 707
+Number of offsprings: 266.0
+Experiment ID: 708
+Number of offsprings: 26.0
+Experiment ID: 709
+Number of offsprings: 9.0
+Experiment ID: 710
+Number of offsprings: 34.0
+Experiment ID: 711
+Number of offsprings: 43.0
+Experiment ID: 712
+Number of offsprings: 82.0
+Experiment ID: 713
+Number of offsprings: 21.0
+Experiment ID: 714
+Number of offsprings: 24.0
+Experiment ID: 715
+Number of offsprings: 9.0
+Experiment ID: 716
+Number of offsprings: 6.0
+Experiment ID: 717
+Number of offsprings: 9.0
+Experiment ID: 718
+Number of offsprings: 25.0
+Experiment ID: 719
+Number of offsprings: 28.0
+Experiment ID: 720
+Number of offsprings: 63.0
+Experiment ID: 721
+Number of offsprings: 100.0
+Experiment ID: 722
+Number of offsprings: 104.0
+Experiment ID: 723
+Number of offsprings: 70.0
+Experiment ID: 724
+Number of offsprings: 24.0
+Experiment ID: 725
+Number of offsprings: 29.0
+Experiment ID: 726
+Number of offsprings: 64.0
+Experiment ID: 727
+Number of offsprings: 3.0
+Experiment ID: 728
+Number of offsprings: 66.0
+Experiment ID: 729
+Number of offsprings: 17.0
+Experiment ID: 730
+Number of offsprings: 40.0
+Experiment ID: 731
+Number of offsprings: 142.0
+Experiment ID: 732
+Number of offsprings: 10.0
+Experiment ID: 733
+Number of offsprings: 2.0
+Experiment ID: 734
+Number of offsprings: 25.0
+Experiment ID: 735
+Number of offsprings: 15.0
+Experiment ID: 736
+Number of offsprings: 22.0
+Experiment ID: 737
+Number of offsprings: 62.0
+Experiment ID: 738
+Number of offsprings: 37.0
+Experiment ID: 739
+Number of offsprings: 151.0
+Experiment ID: 740
+Number of offsprings: 91.0
+Experiment ID: 741
+Number of offsprings: 36.0
+Experiment ID: 742
+Number of offsprings: 116.0
+Experiment ID: 743
+Number of offsprings: 65.0
+Experiment ID: 744
+Number of offsprings: 4.0
+Experiment ID: 745
+Number of offsprings: 2.0
+Experiment ID: 746
+Number of offsprings: 120.0
+Experiment ID: 747
+Number of offsprings: 13.0
+Experiment ID: 748
+Number of offsprings: 2.0
+Experiment ID: 749
+Number of offsprings: 3.0
+Experiment ID: 750
+Number of offsprings: 0.0
+Experiment ID: 751
+Number of offsprings: 35.0
+Experiment ID: 752
+Number of offsprings: 59.0
+Experiment ID: 753
+Number of offsprings: 26.0
+Experiment ID: 754
+Number of offsprings: 10.0
+Experiment ID: 755
+Number of offsprings: 1.0
+Experiment ID: 756
+Number of offsprings: 72.0
+Experiment ID: 757
+Number of offsprings: 86.0
+Experiment ID: 758
+Number of offsprings: 28.0
+Experiment ID: 759
+Number of offsprings: 63.0
+Experiment ID: 760
+Number of offsprings: 34.0
+Experiment ID: 761
+Number of offsprings: 12.0
+Experiment ID: 762
+Number of offsprings: 72.0
+Experiment ID: 763
+Number of offsprings: 4.0
+Experiment ID: 764
+Number of offsprings: 3.0
+Experiment ID: 765
+Number of offsprings: 76.0
+Experiment ID: 766
+Number of offsprings: 59.0
+Experiment ID: 767
+Number of offsprings: 23.0
+Experiment ID: 768
+Number of offsprings: 5.0
+Experiment ID: 769
+Number of offsprings: 26.0
+Experiment ID: 770
+Number of offsprings: 21.0
+Experiment ID: 771
+Number of offsprings: 39.0
+Experiment ID: 772
+Number of offsprings: 14.0
+Experiment ID: 773
+Number of offsprings: 15.0
+Experiment ID: 774
+Number of offsprings: 9.0
+Experiment ID: 775
+Number of offsprings: 116.0
+Experiment ID: 776
+Number of offsprings: 20.0
+Experiment ID: 777
+Number of offsprings: 2.0
+Experiment ID: 778
+Number of offsprings: 9.0
+Experiment ID: 779
+Number of offsprings: 4.0
+Experiment ID: 780
+Number of offsprings: 9.0
+Experiment ID: 781
+Number of offsprings: 7.0
+Experiment ID: 782
+Number of offsprings: 36.0
+Experiment ID: 783
+Number of offsprings: 10.0
+Experiment ID: 784
+Number of offsprings: 57.0
+Experiment ID: 785
+Number of offsprings: 80.0
+Experiment ID: 786
+Number of offsprings: 6.0
+Experiment ID: 787
+Number of offsprings: 178.0
+Experiment ID: 788
+Number of offsprings: 66.0
+Experiment ID: 789
+Number of offsprings: 5.0
+Experiment ID: 790
+Number of offsprings: 84.0
+Experiment ID: 791
+Number of offsprings: 26.0
+Experiment ID: 792
+Number of offsprings: 8.0
+Experiment ID: 793
+Number of offsprings: 4.0
+Experiment ID: 794
+Number of offsprings: 15.0
+Experiment ID: 795
+Number of offsprings: 3.0
+Experiment ID: 796
+Number of offsprings: 69.0
+Experiment ID: 797
+Number of offsprings: 28.0
+Experiment ID: 798
+Number of offsprings: 3.0
+Experiment ID: 799
+Number of offsprings: 23.0
+Experiment ID: 800
+Number of offsprings: 44.0
+Experiment ID: 801
+Number of offsprings: 17.0
+Experiment ID: 802
+Number of offsprings: 1.0
+Experiment ID: 803
+Number of offsprings: 28.0
+Experiment ID: 804
+Number of offsprings: 107.0
+Experiment ID: 805
+Number of offsprings: 24.0
+Experiment ID: 806
+Number of offsprings: 135.0
+Experiment ID: 807
+Number of offsprings: 39.0
+Experiment ID: 808
+Number of offsprings: 0.0
+Experiment ID: 809
+Number of offsprings: 33.0
+Experiment ID: 810
+Number of offsprings: 6.0
+Experiment ID: 811
+Number of offsprings: 40.0
+Experiment ID: 812
+Number of offsprings: 87.0
+Experiment ID: 813
+Number of offsprings: 42.0
+Experiment ID: 814
+Number of offsprings: 29.0
+Experiment ID: 815
+Number of offsprings: 0.0
+Experiment ID: 816
+Number of offsprings: 99.0
+Experiment ID: 817
+Number of offsprings: 11.0
+Experiment ID: 818
+Number of offsprings: 43.0
+Experiment ID: 819
+Number of offsprings: 21.0
+Experiment ID: 820
+Number of offsprings: 45.0
+Experiment ID: 821
+Number of offsprings: 8.0
+Experiment ID: 822
+Number of offsprings: 18.0
+Experiment ID: 823
+Number of offsprings: 140.0
+Experiment ID: 824
+Number of offsprings: 7.0
+Experiment ID: 825
+Number of offsprings: 208.0
+Experiment ID: 826
+Number of offsprings: 54.0
+Experiment ID: 827
+Number of offsprings: 98.0
+Experiment ID: 828
+Number of offsprings: 5.0
+Experiment ID: 829
+Number of offsprings: 1.0
+Experiment ID: 830
+Number of offsprings: 17.0
+Experiment ID: 831
+Number of offsprings: 18.0
+Experiment ID: 832
+Number of offsprings: 63.0
+Experiment ID: 833
+Number of offsprings: 24.0
+Experiment ID: 834
+Number of offsprings: 21.0
+Experiment ID: 835
+Number of offsprings: 111.0
+Experiment ID: 836
+Number of offsprings: 62.0
+Experiment ID: 837
+Number of offsprings: 3.0
+Experiment ID: 838
+Number of offsprings: 84.0
+Experiment ID: 839
+Number of offsprings: 11.0
+Experiment ID: 840
+Number of offsprings: 70.0
+Experiment ID: 841
+Number of offsprings: 12.0
+Experiment ID: 842
+Number of offsprings: 63.0
+Experiment ID: 843
+Number of offsprings: 21.0
+Experiment ID: 844
+Number of offsprings: 6.0
+Experiment ID: 845
+Number of offsprings: 58.0
+Experiment ID: 846
+Number of offsprings: 4.0
+Experiment ID: 847
+Number of offsprings: 25.0
+Experiment ID: 848
+Number of offsprings: 60.0
+Experiment ID: 849
+Number of offsprings: 31.0
+Experiment ID: 850
+Number of offsprings: 104.0
+Experiment ID: 851
+Number of offsprings: 1.0
+Experiment ID: 852
+Number of offsprings: 2.0
+Experiment ID: 853
+Number of offsprings: 41.0
+Experiment ID: 854
+Number of offsprings: 17.0
+Experiment ID: 855
+Number of offsprings: 2.0
+Experiment ID: 856
+Number of offsprings: 19.0
+Experiment ID: 857
+Number of offsprings: 4.0
+Experiment ID: 858
+Number of offsprings: 116.0
+Experiment ID: 859
+Number of offsprings: 4.0
+Experiment ID: 860
+Number of offsprings: 97.0
+Experiment ID: 861
+Number of offsprings: 129.0
+Experiment ID: 862
+Number of offsprings: 77.0
+Experiment ID: 863
+Number of offsprings: 7.0
+Experiment ID: 864
+Number of offsprings: 7.0
+Experiment ID: 865
+Number of offsprings: 31.0
+Experiment ID: 866
+Number of offsprings: 74.0
+Experiment ID: 867
+Number of offsprings: 1.0
+Experiment ID: 868
+Number of offsprings: 14.0
+Experiment ID: 869
+Number of offsprings: 60.0
+Experiment ID: 870
+Number of offsprings: 17.0
+Experiment ID: 871
+Number of offsprings: 47.0
+Experiment ID: 872
+Number of offsprings: 58.0
+Experiment ID: 873
+Number of offsprings: 25.0
+Experiment ID: 874
+Number of offsprings: 74.0
+Experiment ID: 875
+Number of offsprings: 45.0
+Experiment ID: 876
+Number of offsprings: 5.0
+Experiment ID: 877
+Number of offsprings: 37.0
+Experiment ID: 878
+Number of offsprings: 154.0
+Experiment ID: 879
+Number of offsprings: 217.0
+Experiment ID: 880
+Number of offsprings: 25.0
+Experiment ID: 881
+Number of offsprings: 50.0
+Experiment ID: 882
+Number of offsprings: 37.0
+Experiment ID: 883
+Number of offsprings: 54.0
+Experiment ID: 884
+Number of offsprings: 36.0
+Experiment ID: 885
+Number of offsprings: 33.0
+Experiment ID: 886
+Number of offsprings: 2.0
+Experiment ID: 887
+Number of offsprings: 41.0
+Experiment ID: 888
+Number of offsprings: 16.0
+Experiment ID: 889
+Number of offsprings: 29.0
+Experiment ID: 890
+Number of offsprings: 6.0
+Experiment ID: 891
+Number of offsprings: 76.0
+Experiment ID: 892
+Number of offsprings: 36.0
+Experiment ID: 893
+Number of offsprings: 50.0
+Experiment ID: 894
+Number of offsprings: 0.0
+Experiment ID: 895
+Number of offsprings: 19.0
+Experiment ID: 896
+Number of offsprings: 3.0
+Experiment ID: 897
+Number of offsprings: 8.0
+Experiment ID: 898
+Number of offsprings: 10.0
+Experiment ID: 899
+Number of offsprings: 53.0
+Experiment ID: 900
+Number of offsprings: 10.0
+Experiment ID: 901
+Number of offsprings: 10.0
+Experiment ID: 902
+Number of offsprings: 4.0
+Experiment ID: 903
+Number of offsprings: 88.0
+Experiment ID: 904
+Number of offsprings: 79.0
+Experiment ID: 905
+Number of offsprings: 5.0
+Experiment ID: 906
+Number of offsprings: 3.0
+Experiment ID: 907
+Number of offsprings: 26.0
+Experiment ID: 908
+Number of offsprings: 95.0
+Experiment ID: 909
+Number of offsprings: 41.0
+Experiment ID: 910
+Number of offsprings: 43.0
+Experiment ID: 911
+Number of offsprings: 3.0
+Experiment ID: 912
+Number of offsprings: 15.0
+Experiment ID: 913
+Number of offsprings: 22.0
+Experiment ID: 914
+Number of offsprings: 20.0
+Experiment ID: 915
+Number of offsprings: 6.0
+Experiment ID: 916
+Number of offsprings: 113.0
+Experiment ID: 917
+Number of offsprings: 23.0
+Experiment ID: 918
+Number of offsprings: 21.0
+Experiment ID: 919
+Number of offsprings: 62.0
+Experiment ID: 920
+Number of offsprings: 43.0
+Experiment ID: 921
+Number of offsprings: 1.0
+Experiment ID: 922
+Number of offsprings: 12.0
+Experiment ID: 923
+Number of offsprings: 10.0
+Experiment ID: 924
+Number of offsprings: 24.0
+Experiment ID: 925
+Number of offsprings: 7.0
+Experiment ID: 926
+Number of offsprings: 8.0
+Experiment ID: 927
+Number of offsprings: 4.0
+Experiment ID: 928
+Number of offsprings: 33.0
+Experiment ID: 929
+Number of offsprings: 148.0
+Experiment ID: 930
+Number of offsprings: 37.0
+Experiment ID: 931
+Number of offsprings: 5.0
+Experiment ID: 932
+Number of offsprings: 97.0
+Experiment ID: 933
+Number of offsprings: 17.0
+Experiment ID: 934
+Number of offsprings: 195.0
+Experiment ID: 935
+Number of offsprings: 12.0
+Experiment ID: 936
+Number of offsprings: 24.0
+Experiment ID: 937
+Number of offsprings: 2.0
+Experiment ID: 938
+Number of offsprings: 38.0
+Experiment ID: 939
+Number of offsprings: 55.0
+Experiment ID: 940
+Number of offsprings: 18.0
+Experiment ID: 941
+Number of offsprings: 245.0
+Experiment ID: 942
+Number of offsprings: 27.0
+Experiment ID: 943
+Number of offsprings: 224.0
+Experiment ID: 944
+Number of offsprings: 40.0
+Experiment ID: 945
+Number of offsprings: 11.0
+Experiment ID: 946
+Number of offsprings: 10.0
+Experiment ID: 947
+Number of offsprings: 10.0
+Experiment ID: 948
+Number of offsprings: 2.0
+Experiment ID: 949
+Number of offsprings: 91.0
+Experiment ID: 950
+Number of offsprings: 3.0
+Experiment ID: 951
+Number of offsprings: 32.0
+Experiment ID: 952
+Number of offsprings: 117.0
+Experiment ID: 953
+Number of offsprings: 172.0
+Experiment ID: 954
+Number of offsprings: 58.0
+Experiment ID: 955
+Number of offsprings: 2.0
+Experiment ID: 956
+Number of offsprings: 21.0
+Experiment ID: 957
+Number of offsprings: 12.0
+Experiment ID: 958
+Number of offsprings: 7.0
+Experiment ID: 959
+Number of offsprings: 22.0
+Experiment ID: 960
+Number of offsprings: 132.0
+Experiment ID: 961
+Number of offsprings: 45.0
+Experiment ID: 962
+Number of offsprings: 138.0
+Experiment ID: 963
+Number of offsprings: 20.0
+Experiment ID: 964
+Number of offsprings: 10.0
+Experiment ID: 965
+Number of offsprings: 1.0
+Experiment ID: 966
+Number of offsprings: 8.0
+Experiment ID: 967
+Number of offsprings: 41.0
+Experiment ID: 968
+Number of offsprings: 7.0
+Experiment ID: 969
+Number of offsprings: 4.0
+Experiment ID: 970
+Number of offsprings: 42.0
+Experiment ID: 971
+Number of offsprings: 6.0
+Experiment ID: 972
+Number of offsprings: 43.0
+Experiment ID: 973
+Number of offsprings: 24.0
+Experiment ID: 974
+Number of offsprings: 9.0
+Experiment ID: 975
+Number of offsprings: 9.0
+Experiment ID: 976
+Number of offsprings: 54.0
+Experiment ID: 977
+Number of offsprings: 14.0
+Experiment ID: 978
+Number of offsprings: 0.0
+Experiment ID: 979
+Number of offsprings: 17.0
+Experiment ID: 980
+Number of offsprings: 7.0
+Experiment ID: 981
+Number of offsprings: 91.0
+Experiment ID: 982
+Number of offsprings: 1.0
+Experiment ID: 983
+Number of offsprings: 34.0
+Experiment ID: 984
+Number of offsprings: 1.0
+Experiment ID: 985
+Number of offsprings: 28.0
+Experiment ID: 986
+Number of offsprings: 16.0
+Experiment ID: 987
+Number of offsprings: 10.0
+Experiment ID: 988
+Number of offsprings: 36.0
+Experiment ID: 989
+Number of offsprings: 65.0
+Experiment ID: 990
+Number of offsprings: 18.0
+Experiment ID: 991
+Number of offsprings: 54.0
+Experiment ID: 992
+Number of offsprings: 2.0
+Experiment ID: 993
+Number of offsprings: 25.0
+Experiment ID: 994
+Number of offsprings: 0.0
+Experiment ID: 995
+Number of offsprings: 3.0
+Experiment ID: 996
+Number of offsprings: 32.0
+Experiment ID: 997
+Number of offsprings: 57.0
+Experiment ID: 998
+Number of offsprings: 3.0
+Experiment ID: 999
+Number of offsprings: 39.0
